@@ -1,3 +1,2 @@
 # stepik-auto-tests-course
-Homeworks
-https://stepik.org/course/575/syllabus
+первый коммит - ссылка на курс https://stepik.org/course/575/syllabus
