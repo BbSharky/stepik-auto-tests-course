@@ -1,3 +1,3 @@
 # stepik-auto-tests-course
-первый коммит - ссылка на курс https://stepik.org/course/575/syllabus
-Здесь будут храниться решения задач и информация из курса.
+This is a repository for exercises on Stepic`s course
+Here will be located some files for completing tasks from course Testing automation using Selenium and Python https://stepik.org/course/575/syllabus
